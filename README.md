@@ -33,16 +33,15 @@ class ManamnathTiwari:
     def __init__(self):
         self.code        = ["Python", "C++", "Go"]
         self.focus       = ["Backend Engineering", "System Design", "DevOps"]
-        self.currently   = "Designing software systems & building ML from scratch"
+        self.currently   = "Designing software systems & leveraging AI"
         self.motto       = "One who loves Logic, is seeing magic ✨"
         self.fun_fact    = "World is like chicken tandoori — and I'm vegetarian 😄"
 ```
 
-- 🔭 Currently building **machine learning from scratch** and exploring **data science**.
-- 🛡️ Created an **AI-powered Surveillance Camera** for real-time safety detection.
+- 🔭 Currently building **Software AI Solution** to automate tasks .
 - 🏗️ Passionate about **backend engineering, software systems & system design**.
 - ⚙️ Hands-on with **DevOps** — CI/CD, containers & cloud-native workflows.
-- 🌐 Actively **contributing to open source** and learning by building in the open.
+- 🌐 Actively **contributing to open source** and learning by building in the open in my leisure time.
 
 ---
 
