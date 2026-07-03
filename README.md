@@ -72,7 +72,6 @@ class ManamnathTiwari:
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=manamnathtiwari.manamnathtiwari&left_text=Profile%20Visitors&left_color=0F2027&right_color=2C5364" alt="Visitor count" />
 
 </div>
 
@@ -85,6 +84,8 @@ class ManamnathTiwari:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 
 </div>
+
+---
 
 <div align="center">
 
