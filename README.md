@@ -86,18 +86,6 @@ class ManamnathTiwari:
 
 </div>
 
----
-
-## ♟️ My Signature Move
-
-<div align="center">
-
-<img src="assets/chess-hero.svg" width="100%" alt="Manamnath Tiwari — animated chess knight banner" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🐍 Watch my contributions get eaten
