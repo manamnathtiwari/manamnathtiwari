@@ -38,7 +38,7 @@ class ManamnathTiwari:
         self.fun_fact    = "World is like chicken tandoori — and I'm vegetarian 😄"
 ```
 
-- 🔭 Currently building **Software AI Solution** to automate tasks .
+- 🔭 Currently building a **Native AI Solution** which solves the problem of cost cutting of the costly LLM calls.
 - 🏗️ Passionate about **backend engineering, software systems & system design**.
 - ⚙️ Hands-on with **DevOps** — CI/CD, containers & cloud-native workflows.
 - 🌐 Actively **contributing to open source** and learning by building in the open in my leisure time.
